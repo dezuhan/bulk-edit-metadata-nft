@@ -2,7 +2,7 @@
 
 This code is especially for nft creators after generating and having problems with json metadata with "image" or other json key
 
-```
+```py
 import json
 
 for x in range(5000): # <--- change (5000) to your total supply or your total json file
